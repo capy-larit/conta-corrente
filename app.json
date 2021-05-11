@@ -1,0 +1,12 @@
+{
+  "name": "conta-corrente",
+  "displayName": "conta-corrente",
+  "expo": {
+    "name": "conta-corrente",
+    "slug": "conta-corrente",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
